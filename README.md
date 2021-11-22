@@ -40,3 +40,6 @@ fn main(){
   println!("Rust, currently learning");
 }
 ```
+---
+
+![vibe snek](https://user-images.githubusercontent.com/85266594/142788745-a9a7827e-bd0c-4db4-90ac-afeacc5375ef.png)
