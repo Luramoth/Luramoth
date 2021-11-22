@@ -29,7 +29,7 @@ print("Python, above basic")
 #include <iostream>
 
 int main(){
-  std::cout>>"C++, basic/n";
+  std::cout<<"C++, basic/n";
   
   return 0;
 }
