@@ -7,6 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mizuki_Moths?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/LuraMoth?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0C4D-P1e1SUxVgYikP19DQ?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LuraMoth?style=social)
 
 - 17
 - Transgender
