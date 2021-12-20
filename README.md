@@ -46,6 +46,14 @@ fn main(){
   println!("Rust, currently learning");
 }
 ```
+
+```GDScript
+print("GDScript, i dont know how much i know")
+```
+
+```HTML
+<h1>HTML, its cool but i only really learned if for advanced discriptions lol</h1>
+```
 ---
 
 ![vibe snek](https://user-images.githubusercontent.com/85266594/142788745-a9a7827e-bd0c-4db4-90ac-afeacc5375ef.png)
