@@ -56,4 +56,8 @@ print("GDScript, i dont know how much i know")
 ```
 ---
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/37b3d6d6-d838-478f-9892-def1cab18564.png" /></a>
+
+---
+
 ![vibe snek](https://user-images.githubusercontent.com/85266594/142788745-a9a7827e-bd0c-4db4-90ac-afeacc5375ef.png)
