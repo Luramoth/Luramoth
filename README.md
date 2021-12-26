@@ -52,7 +52,8 @@ print("GDScript, i dont know how much i know")
 ```
 
 ```CSS
-/* Dont know how to do the equivalent of printing in CSS so take this comment insted lol, also pretent this is styles.css */
+/* Dont know how to do the equivalent of printing in CSS so take this comment insted lol,
+also pretend this is styles.css */
 
 h1 {
   font-family: 'Roboto', sans-serif;
@@ -70,6 +71,7 @@ h1 {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
       </head>
+  
   <h1>Html, learning as I go to make my own website</h1>
 </html>
 ```
