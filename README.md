@@ -51,12 +51,31 @@ fn main(){
 print("GDScript, i dont know how much i know")
 ```
 
+```CSS
+/* Dont know how to do the equivalent of printing in CSS so take this comment insted lol, also pretent this is styles.css */
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+```
+
 ```HTML
-<h1>HTML, its cool but i only really learned if for advanced discriptions lol</h1>
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+      </head>
+  <h1>Html, learning as I go to make my own website</h1>
+</html>
 ```
 ---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/37b3d6d6-d838-478f-9892-def1cab18564.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
 
 ---
 
