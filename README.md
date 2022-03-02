@@ -40,6 +40,21 @@ int main(){
   return 0;
 }
 ```
+```C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GitHubBio : MonoBehaviour
+{
+	// Start is called before the first frame update
+	void Start()
+	{
+ 	   Print("C#, at least in unity im starting to learn a bunch")
+	}
+}
+
+```
 
 ```rust
 fn main(){
