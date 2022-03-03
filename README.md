@@ -50,7 +50,7 @@ public class GitHubBio : MonoBehaviour
 	// Start is called before the first frame update
 	void Start()
 	{
- 	   Print("C#, at least in unity im starting to learn a bunch")
+ 	   Print("C#, at least in unity im starting to learn a bunch");
 	}
 }
 
