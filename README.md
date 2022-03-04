@@ -1,7 +1,5 @@
 ![Luramoth_Banner](https://user-images.githubusercontent.com/85266594/142786858-4e64baf3-3f5f-4361-907b-0a08698e9451.png)
 
-# LuraMoth
-
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2Fher-%23ff69b4)
 ![GitHub followers](https://img.shields.io/github/followers/LuraMoth?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mizuki_Moths?style=social)
