@@ -3,7 +3,7 @@
 ![Pronouns](https://img.shields.io/badge/Pronouns-She%2Fher-%23ff69b4)
 [![wakatime](https://wakatime.com/badge/user/58d443b6-e6af-4fa2-9946-c53ddafb5a4f.svg)](https://wakatime.com/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f)
 ![GitHub followers](https://img.shields.io/github/followers/LuraMoth?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Mizuki_Moths?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/LuraMoth?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/LuraMoth?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0C4D-P1e1SUxVgYikP19DQ?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LuraMoth?style=social)
