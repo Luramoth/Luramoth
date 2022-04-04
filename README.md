@@ -89,6 +89,12 @@ h1 {
   <h1>Html, learning as I go to make my own website</h1>
 </html>
 ```
+
+```bash
+#!/bin/bash
+
+echo "Bash, learning as I go, not a priority"
+```
 ---
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
