@@ -95,6 +95,22 @@ h1 {
 
 echo "Bash, learning as I go, not a priority"
 ```
+```assembly
+          global    _start
+
+          section   .text
+_start:   mov       rax, 1                  ; system call for write
+          mov       rdi, 1                  ; file handle 1 is stdout
+          mov       rsi, message            ; address of string to output
+          mov       rdx, 54                 ; number of bytes
+          syscall                           ; invoke operating system to do the write
+          mov       rax, 60                 ; system call for exit
+          xor       rdi, rdi                ; exit code 0
+          syscall                           ; invoke operating system to exit
+
+          section   .data
+message:  db        "x86_64 assembly, literally only did this just for fun", 10      ; note the newline at the end
+```
 ---
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
