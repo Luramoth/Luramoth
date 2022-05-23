@@ -34,7 +34,7 @@ print("Python, above basic")
 #include <iostream>
 
 int main(){
-  std::cout<<"C++, basic/n";
+  std::cout<<"C++, basic, but learning pretty well\n";
   
   return 0;
 }
@@ -57,7 +57,7 @@ public class GitHubBio : MonoBehaviour
 
 ```rust
 fn main(){
-  println!("Rust, currently learning");
+  println!("Rust, kinda basic, wish it had more (good) libraries");
 }
 ```
 
