@@ -115,7 +115,7 @@ message:  db        "x86_64 assembly, literally only did this just for fun", 10 
 # languages used:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
 # weekly coding activity:
-<embed src="https://wakatime.com/share/@Luramoth/557c2463-731e-4958-9db7-f688c28f58c6.svg"></embed>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Luramoth/0ef6150a-5fbc-4058-921b-bc01d53e25b9.png" /></a>
 ---
 
 ![vibe snek](https://user-images.githubusercontent.com/85266594/142788745-a9a7827e-bd0c-4db4-90ac-afeacc5375ef.png)
