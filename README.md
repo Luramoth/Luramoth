@@ -34,7 +34,7 @@ print("Python, above basic")
 #include <iostream>
 
 int main(){
-  std::cout<<"C++, basic, but learning pretty well\n";
+  std::cout << "C++, basic, but learning pretty well\n";
   
   return 0;
 }
