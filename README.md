@@ -111,6 +111,14 @@ _start:   mov       rax, 1                  ; system call for write
           section   .data
 message:  db        "x86_64 assembly, literally only did this just for fun", 10      ; note the newline at the end
 ```
+
+```Haxe
+class githubBio {
+    static public function main() {
+    	trace("haxe, new but i really want to learn this");
+    }
+}
+```
 ---
 # languages used:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
