@@ -119,6 +119,14 @@ class githubBio {
     }
 }
 ```
+
+```Java
+public class Main {
+	public static function main void (String[] args){
+		system.out.println("Java, its pretty cool and doesent seem as bad as everyone says it is but what do i know")
+	}
+}
+```
 ---
 # languages used:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f/18bfb3c7-0eb7-4098-a99f-0f7c6d8f944f.png" /></a>
