@@ -15,6 +15,7 @@
 - open source enthusiast
 - linux user
 - proficiant graphic designer
+- Unreal engine lover
 
 > "by the niche, for everyone."
 
