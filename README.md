@@ -1,6 +1,6 @@
 ![Luramoth_Banner](https://user-images.githubusercontent.com/85266594/142786858-4e64baf3-3f5f-4361-907b-0a08698e9451.png)
 
-![Pronouns](https://img.shields.io/badge/Pronouns-She%2Fher-%23ff69b4)
+![Pronouns](https://img.shields.io/badge/pronouns-any%2Fall-ff69b4)
 [![wakatime](https://wakatime.com/badge/user/58d443b6-e6af-4fa2-9946-c53ddafb5a4f.svg)](https://wakatime.com/@58d443b6-e6af-4fa2-9946-c53ddafb5a4f)
 ![GitHub followers](https://img.shields.io/github/followers/LuraMoth?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LuraMoth?style=social)
