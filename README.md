@@ -63,7 +63,7 @@ fn main(){
 ```
 
 ```GDScript
-print("GDScript, i dont know how much i know")
+print("GDScript, getting pretty good, loving its OOP nature")
 ```
 
 ```CSS
